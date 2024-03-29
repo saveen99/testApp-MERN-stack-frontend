@@ -9,7 +9,7 @@ const users = [
     },
     {
         id: 2,
-        name: 'Hashini', 
+        name: 'User2', 
     }
 ];
 
